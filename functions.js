@@ -1,3 +1,3 @@
-const addThis = (n1, n2) => {
-    return n1 + n2;
+const addThis = (num1, num2) => {
+    return num1 + num2;
 }
